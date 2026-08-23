@@ -28,15 +28,16 @@ en [INSPIRE](https://inspirehep.net/authors/990021) (206 trabajos) y en arXiv.
 | `teorema-de-noether-2015.pdf` | Teorema de Noether en teorías clásicas de campos (clase de Electromagnetismo II) | 13 |
 | `fisica-escuela-secundaria-2012.pdf` | Física para el Colegio Nacional y el Liceo Víctor Mercante de la UNLP | 109 |
 | `metodos-del-conocimiento-cientifico-2023.pdf` | Introducción a los Métodos del Conocimiento Científico (posgrado, curso humanístico) — versión 2023 | 297 |
+| `programa-metodos-del-conocimiento-cientifico-2023.pdf` | Programa de ese curso para el segundo semestre de 2023, el último que preparó | 9 |
 
 ## `libros/`
 
 | Archivo | Obra |
 |---|---|
-| `que-es-la-fisica-cuantica-2021.pdf` | *¿Qué es la física cuántica?* — publicado por Paidós (Buenos Aires 2014, México 2015). Manuscrito completo del autor, última revisión de marzo de 2021 (73 pp.) |
+| `que-es-la-fisica-cuantica-2022.pdf` | *¿Qué es la física cuántica?* — publicado por Paidós (Buenos Aires 2014, México 2015). Manuscrito completo del autor, última revisión de marzo de 2022, transcripta tal cual (74 pp.) |
 | `de-la-tierra-a-los-confines-del-cosmos-borrador-2017.pdf` | Borrador de la novela de divulgación publicada en 2021 como *De la Tierra a un agujero negro: un viaje hacia los confines del Cosmos* (con Viviana Schaposnik). Versión preliminar del 20/6/2017, 11 capítulos escritos |
 | `las-vidas-de-carlo-gualeo-borrador-2021.pdf` | *Las vidas de Carlo Gualeo* — novela inconclusa. Último borrador, 8 de octubre de 2021. Inédita |
-| `borradores-de-cocina-2021.pdf` | *Borradores de cocina*, enero 1994 – julio 2021. Recetario comentado; es la versión final, posterior a la publicada en su sitio |
+| `borradores-de-cocina-2022.pdf` | *Borradores de cocina* — recetario comentado. Última compilación, de abril de 2022; la portada conserva el subtítulo "enero 1994 – julio 2021" de la versión anterior |
 
 ## `divulgacion/` — Artículos, charlas y semblanzas
 
@@ -61,6 +62,7 @@ en [INSPIRE](https://inspirehep.net/authors/990021) (206 trabajos) y en arXiv.
 - `sobre-miguel-angel-virasoro-1989.pdf`
 - `un-fisico-argentino-1997.pdf` — *Perfis*, CBPF-CNPq, Brasil
 - `sobre-federico-ludden-2022.pdf` — recuerdo de un compañero de ayudantía
+- `sobre-hector-de-vega-2015.pdf` — nota por la muerte de su compañero de estudios y de doctorado (en inglés)
 - `las-raices-de-abdus-salam-1985.pdf` — *El Periodista de Buenos Aires* (también el recorte original escaneado)
 - `trabajando-con-nino-1999.pdf` y `auditorium-ninoslav-bralic-2004.pdf` — sobre Ninoslav Bralic
 - `john-archibald-wheeler-2008.pdf`, `sobre-stephen-hawking.pdf`
@@ -83,7 +85,8 @@ del Libro de 2005.
 
 En varios casos el archivo local es mejor que lo publicado: las notas de integrales de camino del
 sitio son una compilación truncada de 129 páginas, y acá está la de 318; el recetario del sitio
-llega hasta 2016, mientras que esta versión llega a julio de 2021; y las dos versiones de
+tiene 111 páginas y llega hasta 2016, mientras que esta versión tiene 117 y la compiló en abril
+de 2022; y las dos versiones de
 *Mecánica Cuántica* que están acá —las últimas que dejó preparadas, en febrero de 2023— son
 bastante más extensas que las que circulaban: 299 páginas en lugar de 266 la primera, y 344 en
 lugar de 292 la segunda.
