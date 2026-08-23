@@ -18,8 +18,8 @@ en [INSPIRE](https://inspirehep.net/authors/990021) (206 trabajos) y en arXiv.
 
 | Archivo | Curso | Págs. |
 |---|---|---:|
-| `mecanica-cuantica-i-2019.pdf` | Mecánica Cuántica I (grado) — versión del 10/3/2019 | 266 |
-| `mecanica-cuantica-ii-2015.pdf` | Mecánica Cuántica II (grado) — versión del 3/11/2015 | 292 |
+| `mecanica-cuantica-i.pdf` | Mecánica Cuántica I (grado) — última versión, ampliada; la portada conserva la fecha 31/10/2018 | 299 |
+| `mecanica-cuantica-ii-2021.pdf` | Mecánica Cuántica II (grado) — versión del 31/5/2021 | 344 |
 | `integrales-de-camino-2018.pdf` | Integral funcional en teoría cuántica de campos y mecánica estadística (posgrado, en inglés) — 24/10/2018 | 318 |
 | `path-integrals-balseiro-2017.pdf` | Path Integrals in Quantum Field Theory — curso dictado en el Instituto Balseiro, octubre de 2017 | 116 |
 | `supersimetria-2014.pdf` | Supersimetría (posgrado, en inglés) | 177 |
@@ -33,7 +33,7 @@ en [INSPIRE](https://inspirehep.net/authors/990021) (206 trabajos) y en arXiv.
 
 | Archivo | Obra |
 |---|---|
-| `que-es-la-fisica-cuantica-2017.pdf` | *¿Qué es la física cuántica?* — publicado por Paidós (Buenos Aires 2014, México 2015). Manuscrito completo del autor, última revisión de julio de 2017 (73 pp.) |
+| `que-es-la-fisica-cuantica-2021.pdf` | *¿Qué es la física cuántica?* — publicado por Paidós (Buenos Aires 2014, México 2015). Manuscrito completo del autor, última revisión de marzo de 2021 (73 pp.) |
 | `de-la-tierra-a-los-confines-del-cosmos-borrador-2017.pdf` | Borrador de la novela de divulgación publicada en 2021 como *De la Tierra a un agujero negro: un viaje hacia los confines del Cosmos* (con Viviana Schaposnik). Versión preliminar del 20/6/2017, 11 capítulos escritos |
 | `las-vidas-de-carlo-gualeo-borrador-2021.pdf` | *Las vidas de Carlo Gualeo* — novela inconclusa. Último borrador, 8 de octubre de 2021. Inédita |
 | `borradores-de-cocina-2021.pdf` | *Borradores de cocina*, enero 1994 – julio 2021. Recetario comentado; es la versión final, posterior a la publicada en su sitio |
@@ -49,6 +49,8 @@ en [INSPIRE](https://inspirehep.net/authors/990021) (206 trabajos) y en arXiv.
 - `premio-nobel-de-fisica-1999.pdf` y `premio-nobel-de-fisica-2004.pdf` — *Ciencia Hoy*
 - `particules-elementaires-1993.pdf` — entrada de la *Encyclopédie Hachette*
 - `opinion-sobre-el-proyecto-auger-1997.pdf` — informe para la Asociación Física Argentina
+- `jornadas-uba-sobre-la-cnea-2012.pdf` — intervención en las Jornadas de la UBA sobre la Comisión Nacional de Energía Atómica
+- `panel-sobre-ciencia-basica-y-tecnologia-2012.pdf` — charla en panel, sobre la relación entre investigación básica y desarrollo tecnológico
 - `sobre-la-divulgacion-cientifica-2016.pdf`, `becarios-tesistas-y-directores-2015.pdf`, `einstein-y-el-laser.pdf`
 - `leccion-y-herencia-de-einstein-2005.pdf` — 31ª Feria del Libro de Buenos Aires
 
@@ -58,6 +60,7 @@ en [INSPIRE](https://inspirehep.net/authors/990021) (206 trabajos) y en arXiv.
 - `sobre-el-profesor-bollini-1987.pdf` y `sobre-el-fallecimiento-de-carlos-bollini-2009.pdf`
 - `sobre-miguel-angel-virasoro-1989.pdf`
 - `un-fisico-argentino-1997.pdf` — *Perfis*, CBPF-CNPq, Brasil
+- `sobre-federico-ludden-2022.pdf` — recuerdo de un compañero de ayudantía
 - `las-raices-de-abdus-salam-1985.pdf` — *El Periodista de Buenos Aires* (también el recorte original escaneado)
 - `trabajando-con-nino-1999.pdf` y `auditorium-ninoslav-bralic-2004.pdf` — sobre Ninoslav Bralic
 - `john-archibald-wheeler-2008.pdf`, `sobre-stephen-hawking.pdf`
@@ -78,9 +81,12 @@ apuntes de solitones, el curso del Balseiro, el teorema de Noether, el curso del
 entrada de la *Encyclopédie Hachette*, el artículo sobre el Nobel 2004 y la charla de la Feria
 del Libro de 2005.
 
-En dos casos el archivo local es mejor que lo publicado: las notas de integrales de camino del
-sitio son una compilación truncada de 129 páginas, y acá está la de 318; y el recetario del sitio
-llega hasta 2016, mientras que esta versión llega a julio de 2021.
+En varios casos el archivo local es mejor que lo publicado: las notas de integrales de camino del
+sitio son una compilación truncada de 129 páginas, y acá está la de 318; el recetario del sitio
+llega hasta 2016, mientras que esta versión llega a julio de 2021; y las dos versiones de
+*Mecánica Cuántica* que están acá —las últimas que dejó preparadas, en febrero de 2023— son
+bastante más extensas que las que circulaban: 299 páginas en lugar de 266 la primera, y 344 en
+lugar de 292 la segunda.
 
 *Mecánica Cuántica II*, *Las vidas de Carlo Gualeo* y varios de los textos de `divulgacion/` y
 `otros/` no estaban publicados en ningún lado.
