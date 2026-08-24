@@ -20,7 +20,7 @@ en [INSPIRE](https://inspirehep.net/authors/990021) (206 trabajos) y en arXiv.
 |---|---|---:|
 | `mecanica-cuantica-i.pdf` | Mecánica Cuántica I (grado) — última versión, ampliada; la portada conserva la fecha 31/10/2018 | 299 |
 | `mecanica-cuantica-ii-2021.pdf` | Mecánica Cuántica II (grado) — versión del 31/5/2021 | 344 |
-| `integrales-de-camino-2018.pdf` | Integral funcional en teoría cuántica de campos y mecánica estadística (posgrado, en inglés) — 24/10/2018 | 318 |
+| `integrales-de-camino-2023.pdf` | Integral funcional en teoría cuántica de campos y mecánica estadística (posgrado, en inglés) — *Path Integrals I & II*, versión del 9/6/2023 | 318 |
 | `path-integrals-balseiro-2017.pdf` | Path Integrals in Quantum Field Theory — curso dictado en el Instituto Balseiro, octubre de 2017 | 116 |
 | `supersimetria-2014.pdf` | Supersimetría (posgrado, en inglés) | 177 |
 | `solitones-2015.pdf` | Solitones en supersimetría, holografía, dinámica de branas y materia condensada (posgrado) | 227 |
@@ -35,8 +35,8 @@ en [INSPIRE](https://inspirehep.net/authors/990021) (206 trabajos) y en arXiv.
 | Archivo | Obra |
 |---|---|
 | `que-es-la-fisica-cuantica-2022.pdf` | *¿Qué es la física cuántica?* — publicado por Paidós (Buenos Aires 2014, México 2015). Manuscrito completo del autor, última revisión de marzo de 2022, transcripta tal cual (74 pp.) |
-| `de-la-tierra-a-los-confines-del-cosmos-borrador-2017.pdf` | Borrador de la novela de divulgación publicada en 2021 como *De la Tierra a un agujero negro: un viaje hacia los confines del Cosmos* (con Viviana Schaposnik). Versión preliminar del 20/6/2017, 11 capítulos escritos |
-| `las-vidas-de-carlo-gualeo-borrador-2021.pdf` | *Las vidas de Carlo Gualeo* — novela inconclusa. Último borrador, 8 de octubre de 2021. Inédita |
+| `de-la-tierra-a-un-agujero-negro-2021.pdf` | *De la Tierra a un Agujero Negro: un viaje hacia los confines del Cosmos* — novela de divulgación, con ilustraciones de tapa y texto de Viviana Schaposnik. Edición final tal como se publicó, 15 capítulos, 280 pp. |
+| `las-vidas-de-carlo-gualeo-borrador-2021.pdf` | *Las vidas de Carlo Gualeo* — novela inconclusa. Último borrador, 25 de noviembre de 2021. Inédita |
 | `borradores-de-cocina-2022.pdf` | *Borradores de cocina* — recetario comentado. Última compilación, de abril de 2022; la portada conserva el subtítulo "enero 1994 – julio 2021" de la versión anterior |
 
 ## `divulgacion/` — Artículos, charlas y semblanzas
@@ -93,6 +93,10 @@ lugar de 292 la segunda.
 
 *Mecánica Cuántica II*, *Las vidas de Carlo Gualeo* y varios de los textos de `divulgacion/` y
 `otros/` no estaban publicados en ningún lado.
+
+*De la Tierra a un Agujero Negro* es el único libro del conjunto que se publicó comercialmente
+(Schapos Publishing, 2021). Se incluye acá el archivo de la edición final con la autorización
+expresa de Viviana Schaposnik, autora de las ilustraciones, y de Schapos Publishing.
 
 No se incluyen los libros que editó pero no escribió (*J.J. Giambiagi Festschrift*, *Trends in
 Theoretical Physics* I y II), ni *Semiología* de su padre, ni el material de terceros que guardaba
