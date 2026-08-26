@@ -43,6 +43,8 @@ en [INSPIRE](https://inspirehep.net/authors/990021) (206 trabajos) y en arXiv.
 
 **Física y política científica**
 
+- `han-muerto-las-supercuerdas-1989.pdf` — *Ciencia Hoy* vol. 1, nº 1, la revista que ayudó a fundar
+- `particulas-elementales-1997.pdf` — *Ciencia e Investigación* 50, con María Cecilia von Reichenbach
 - `algunos-temas-de-la-fisica-teorica-del-siglo-xxi.pdf` — charla "La física, una ciencia vertical"
 - `el-futuro-de-la-fisica-de-altas-energias.pdf` — respuesta pedida por *Ciencia Hoy*
 - `de-la-incerteza-a-la-teoria-del-todo-2017.pdf` — charla, diciembre de 2017
@@ -93,6 +95,12 @@ lugar de 292 la segunda.
 
 *Mecánica Cuántica II*, *Las vidas de Carlo Gualeo* y varios de los textos de `divulgacion/` y
 `otros/` no estaban publicados en ningún lado.
+
+Dos textos vinieron de afuera de sus archivos. *Partículas elementales* se bajó del repositorio
+SEDICI de la UNLP, que conserva el escaneo de la revista. *¿Han muerto las supercuerdas?* es el
+único documento de este repositorio que no es un archivo suyo: el sitio de *Ciencia Hoy* ya no
+está en línea y el texto se recompuso a partir de la copia que él mismo había publicado en su
+página web. No reproduce la maquetación de la revista, y el propio PDF lo aclara al pie.
 
 *De la Tierra a un Agujero Negro* es el único libro del conjunto que se publicó comercialmente
 (Schapos Publishing, 2021). Se incluye acá el archivo de la edición final con la autorización
