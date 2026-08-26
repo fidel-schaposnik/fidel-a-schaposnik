@@ -77,9 +77,17 @@ en BibTeX. Están los PDFs de 197, casi siempre la versión publicada: 171 son l
 guardaba ordenadas por década, y el resto preprints de arXiv o versiones de acceso abierto. De los
 23 que faltan, el índice conserva el enlace al DOI.
 
+## `tesis-dirigidas/` — Las tesis de sus doctorandos
+
+Dirigió 18 tesis de doctorado entre 1980 y 2009. Están acá los PDF de 12, bajados de SEDICI y de la
+Biblioteca Digital de Exactas de la UBA, con el índice de las 18 en
+[`tesis-dirigidas/README.md`](tesis-dirigidas/). Son textos de sus autores, no suyos: se archivan
+como testimonio de lo que dirigió, con la referencia al repositorio de origen y su licencia.
+
 ## `otros/`
 
-- `curriculum-vitae-2015.pdf` — CV completo, julio de 2015 (38 pp.)
+- `curriculum-vitae-2017-en.pdf` — CV en inglés, la última versión que actualizó (17 pp.)
+- `curriculum-vitae-2015.pdf` — CV completo en castellano, julio de 2015 (38 pp.)
 - `sobre-los-schaposnik.pdf` — texto sobre la familia
 - `gastre.pdf` — texto personal sobre Patricia Massolo
 
