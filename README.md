@@ -9,8 +9,8 @@ enlazados desde él y de sus archivos personales. Todos los documentos están en
 existían sólo en `.doc`/`.docx` fueron convertidos. En cada caso se conservó la **última versión
 disponible**.
 
-Sólo se incluyen textos de su autoría. Sus artículos de investigación no están acá: se consultan
-en [INSPIRE](https://inspirehep.net/authors/990021) (206 trabajos) y en arXiv.
+Sólo se incluyen textos de su autoría. Sus 220 trabajos de investigación están en
+[`publicaciones/`](publicaciones/), con su propio índice.
 
 ---
 
@@ -68,6 +68,14 @@ en [INSPIRE](https://inspirehep.net/authors/990021) (206 trabajos) y en arXiv.
 - `las-raices-de-abdus-salam-1985.pdf` — *El Periodista de Buenos Aires* (también el recorte original escaneado)
 - `trabajando-con-nino-1999.pdf` y `auditorium-ninoslav-bralic-2004.pdf` — sobre Ninoslav Bralic
 - `john-archibald-wheeler-2008.pdf`, `sobre-stephen-hawking.pdf`
+
+## `publicaciones/` — Trabajos de investigación
+
+Sus 220 publicaciones científicas según [INSPIRE-HEP](https://inspirehep.net/authors/990021), de
+1973 a 2022, con el índice completo en [`publicaciones/README.md`](publicaciones/) y las referencias
+en BibTeX. Están los PDFs de 197, casi siempre la versión publicada: 171 son las separatas que él
+guardaba ordenadas por década, y el resto preprints de arXiv o versiones de acceso abierto. De los
+23 que faltan, el índice conserva el enlace al DOI.
 
 ## `otros/`
 
