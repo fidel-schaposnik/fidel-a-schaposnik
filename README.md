@@ -79,8 +79,8 @@ guardaba ordenadas por década, y el resto preprints de arXiv o versiones de acc
 
 ## `tesis-dirigidas/` — Las tesis de sus doctorandos
 
-Dirigió 18 tesis de doctorado entre 1980 y 2009. Están acá los PDF de 12, bajados de SEDICI y de la
-Biblioteca Digital de Exactas de la UBA, con el índice de las 18 en
+Dirigió 18 tesis de doctorado entre 1980 y 2009. Están acá los PDF de 13, bajados de SEDICI, de la
+Biblioteca Digital de Exactas de la UBA y de arXiv, con el índice de las 18 en
 [`tesis-dirigidas/README.md`](tesis-dirigidas/). Son textos de sus autores, no suyos: se archivan
 como testimonio de lo que dirigió, con la referencia al repositorio de origen y su licencia.
 

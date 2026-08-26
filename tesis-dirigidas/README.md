@@ -4,11 +4,13 @@ Entre 1980 y 2009 dirigió **18 tesis de doctorado** en física, casi todas en l
 de La Plata. Sus autores son hoy profesores e investigadores en La Plata, Buenos Aires, Bariloche,
 Santiago de Compostela, Swansea, París y Boston.
 
-Están acá los PDF de **12** de esas tesis. Once vienen de [SEDICI](http://sedici.unlp.edu.ar), el
+Están acá los PDF de **13** de esas tesis. Once vienen de [SEDICI](http://sedici.unlp.edu.ar), el
 repositorio de la UNLP, donde se publicaron bajo licencia Creative Commons
-[BY-NC-SA 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5/ar/), y la de León Aldrovandi viene de la
-Biblioteca Digital de Exactas de la UBA. **Los textos son de sus autores, no de él**: se archivan acá
-como testimonio de lo que dirigió, con la referencia al repositorio de origen en cada caso.
+[BY-NC-SA 2.5](https://creativecommons.org/licenses/by-nc-sa/2.5/ar/); la de León Aldrovandi, de la
+Biblioteca Digital de Exactas de la UBA, y la de Guillermo Silva, de arXiv.
+
+**Los textos son de sus autores, no de él**: se archivan acá como testimonio de lo que dirigió, con
+la referencia al repositorio de origen en cada caso.
 
 ---
 
@@ -38,8 +40,8 @@ como testimonio de lo que dirigió, con la referencia al repositorio de origen e
   <sub>Profesor en la Universidad de Santiago de Compostela · [ficha](http://sedici.unlp.edu.ar/handle/10915/2446)</sub>
 - **Carlos Núñez** (1998)  
   <sub>Profesor en la Swansea University, Reino Unido · sin archivo</sub>
-- **Guillermo Silva** (2000)  
-  <sub>Profesor en la UNLP e investigador del CONICET · sin archivo</sub>
+- **Guillermo Silva** (2000) — [*Born-Infeld action and supersymmetry*](2000-silva-born-infeld-action-and-supersymmetry.pdf)  
+  <sub>Profesor en la UNLP e investigador del CONICET. Tesis presentada en la Universidad de Cuyo (Instituto Balseiro) con el trabajo hecho en el Departamento de Física de la UNLP; el texto está en arXiv · [ficha](https://arxiv.org/abs/hep-th/0012267)</sub>
 - **Nicolás Grandi** (2001) — [*Teorías de gauge no conmutativas: Chern-Simons y Born-Infeld*](2001-grandi-teorias-de-gauge-no-conmutativas-chern-simons-y-born.pdf)  
   <sub>Investigador del CONICET en el IFLP-UNLP · [ficha](http://sedici.unlp.edu.ar/handle/10915/2208)</sub>
 - **Diego Correa** (2003) — *Aspectos clásicos y cuánticos en teorías de campos no-conmutativos*  
@@ -60,7 +62,9 @@ UBA), D. Slobinsky (2006), L. Cieri (2007, UBA), P. Fernández (2008, UBA), y Ju
 y Alan Rapoport (2018, UBA). No están archivadas acá.
 
 <sub>La lista de doctorandos es la que él mismo publicaba en su sitio; los datos de cada tesis salen
-de SEDICI y de la Biblioteca Digital de la FCEN-UBA. Faltan seis: las de Horacio Falomir (1980) y
-Marta Trobo (1989), que no están digitalizadas; las de Carlos Núñez (1998) y Guillermo Silva (2000),
-que no aparecen en los repositorios consultados; la de Diego Correa (2003), cuya ficha en SEDICI no
-tiene el archivo asociado; y la de Diego Marqués (2009), en la UBA.</sub>
+de SEDICI y de la Biblioteca Digital de la FCEN-UBA. Faltan cinco. Las de Horacio Falomir (1980) y
+Marta Trobo (1989) no están digitalizadas. La de Carlos Núñez (1998) no aparece en los repositorios
+consultados. La de Diego Correa (2003) tiene ficha en SEDICI pero sin archivo adjunto; en arXiv está
+sólo su trabajo de diploma de 2000, dirigido por E. M. Santangelo. La de Diego Marqués (2009) se
+defendió en la UBA el 16 de septiembre de 2009 y no está en la Biblioteca Digital de Exactas ni en
+el Sistema Nacional de Repositorios Digitales.</sub>
